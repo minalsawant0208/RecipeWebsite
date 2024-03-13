@@ -346,12 +346,11 @@ ul
         width: 100%;
     }
 }
-@media only screen and (max-width:950px)
+@media only screen and (max-width:1000px)
 {
     .button-div
     {
         display: flex;
         flex-direction: column;
-
     }
 }
