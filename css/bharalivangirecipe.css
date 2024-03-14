@@ -393,6 +393,11 @@ ul
         display: flex;
         flex-direction: column;
     }
+    .image-info-div
+    {
+        display: flex;
+        flex-direction: column;
+    }
     .img-div img
     {
         width: 100%;

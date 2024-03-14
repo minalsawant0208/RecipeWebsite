@@ -338,6 +338,10 @@ ul
         display: flex;
         flex-direction: column;
     }
+    .cat-heading-div h1
+    {
+        font-size: 2.1em;
+    }
     .box{
         display: flex;
         flex-direction: column;
